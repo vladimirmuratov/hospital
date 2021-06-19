@@ -3,7 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="d3d1ddf2-b0da-4fed-9faf-9c5f6d4412b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cardiology.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cardiology.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/endoscopy.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/endoscopy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/gastrology.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/gastrology.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/gynecology.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/gynecology.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/neurology.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/neurology.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/reception_department.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/reception_department.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/resuscitation.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/resuscitation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/somnology.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/somnology.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/surgery.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/surgery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/therapeutic.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/therapeutic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/traumatologist.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/traumatologist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/urology.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/urology.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +56,19 @@
       <option name="presentableId" value="Default" />
       <updated>1616426191062</updated>
       <workItem from="1616426192765" duration="9937000" />
-      <workItem from="1616487493336" duration="9033000" />
+      <workItem from="1616487493336" duration="9418000" />
+      <workItem from="1616586359317" duration="52000" />
+      <workItem from="1624092259556" duration="9523000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1616586409236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616586409236" />
   </component>
 </project>
